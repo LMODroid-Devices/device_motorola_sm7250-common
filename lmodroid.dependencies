@@ -1,13 +1,16 @@
 [
   {
+    "remote": "lineage",
     "repository": "android_kernel_motorola_sm7250",
     "target_path": "kernel/motorola/sm7250"
   },
   {
+    "remote": "lineage",
     "repository": "android_hardware_motorola",
     "target_path": "hardware/motorola"
   },
   {
+    "remote": "lineage",
     "repository": "android_hardware_sony_timekeep",
     "target_path": "hardware/sony/timekeep"
   }
